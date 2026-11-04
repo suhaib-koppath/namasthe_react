@@ -1,0 +1,25 @@
+{
+  "name": "npm-into-you-repo",
+  "version": "1.0.0",
+  "description": "This is inrialize npm itto your repo by Suhaib",
+  "keywords": [
+    "Suhaib",
+    "Namsthe",
+    "React"
+  ],
+  "homepage": "https://github.com/suhaib-koppath/namasthe_react#readme",
+  "bugs": {
+    "url": "https://github.com/suhaib-koppath/namasthe_react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhaib-koppath/namasthe_react.git"
+  },
+  "license": "ISC",
+  "author": "Suhaib",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  }
+}
