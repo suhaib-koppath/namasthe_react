@@ -1,0 +1,14 @@
+#root{
+    display: flex;
+align-items: center;
+justify-content: center;
+height: 100vh;
+}
+#heading{
+    text-align: center;
+    color: blue;
+}
+.description{
+    text-align: center;
+    color: green;
+}
